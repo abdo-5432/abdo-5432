@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelhakim FIKRI
 
-🚀 **Junior Web & Mobile Developer** | Flutter · Laravel · Java
+🚀 **Junior Web & Mobile Developer** 
 
 ---
 
