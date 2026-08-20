@@ -42,8 +42,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhakim-fikri-827012389)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdo-5432)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](abdelhakim-fikri-portfolio.fikriabdelhakim5.workers.dev
-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdelhakim-fikri-portfolio.fikriabdelhakim5.workers.dev/)
 📫 **Email:** fikriabdelhakim5@gmail.com
 ---
 
